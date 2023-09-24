@@ -8,13 +8,9 @@
 * kanmikhaylov@gmail.com
 
 #### Проекты
-1. ["Продажа автомобилей" с использованием Spring Boot, Thymeleaf, Bootstrap, Hibernate, PostgreSql](https://github.com/kamikhaylov/job4j_cars)
-2. ["Список задач" с использованием Spring Boot, Thymeleaf, Bootstrap, Hibernate, PostgreSql](https://github.com/kamikhaylov/job4j_todo)
+1. ["Продажа автомобилей" с использованием Spring Boot, Hibernate](https://github.com/kamikhaylov/job4j_cars)
+2. ["Список задач" с использованием Spring Boot, Hibernate](https://github.com/kamikhaylov/job4j_todo)
 3. ["Кинотеатр" с реализацией сквозной функциональности при помощи AOP Spring](https://github.com/kamikhaylov/job4j_cinema)
-3. ["Вакансии"](https://github.com/kamikhaylov/job4j_cinema)
-4. ["Работа мечты"](https://github.com/kamikhaylov/job4j_grabber)
-5. ["Tracker" Консольное приложение для работы с заявками](https://github.com/kamikhaylov/job4j_tracker)
-
 #### Курсы
 * СберУнивер. Школа Java Developer: Программа Перезапуск, 2020
 * СберУнивер. Школа Java Developer: Аспектно-ориентированное программирование, 2023
