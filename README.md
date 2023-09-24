@@ -18,7 +18,7 @@
 #### Курсы
 * СберУнивер. Школа Java Developer: Программа Перезапуск, 2020
 * СберУнивер. Школа Java Developer: Аспектно-ориентированное программирование, 2023
-* Изучаю Java на Job4j.ru
+* Изучаю Java на [Job4j.ru](https://job4j.ru)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kamikhaylov&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamikhaylov&layout=compact)](https://github.com/kamikhaylov/github-readme-stats)
