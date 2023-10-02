@@ -19,6 +19,8 @@
 1. ["Продажа автомобилей" с использованием Spring Boot, Hibernate](https://github.com/kamikhaylov/job4j_cars)
 2. ["Список задач" с использованием Spring Boot, Hibernate](https://github.com/kamikhaylov/job4j_todo)
 3. ["Кинотеатр" с реализацией сквозной функциональности при помощи AOP Spring](https://github.com/kamikhaylov/job4j_cinema)
+4. ["Автонарушения" с использованием Spring Data, Spring Security](https://github.com/kamikhaylov/job4j_accidents)
+
 #### Курсы
 * СберУнивер. Школа Java Developer: Программа Перезапуск, 2020
 * СберУнивер. Школа Java Developer: Аспектно-ориентированное программирование, 2023
