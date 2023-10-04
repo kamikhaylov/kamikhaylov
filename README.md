@@ -28,6 +28,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kamikhaylov&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamikhaylov&layout=compact)](https://github.com/kamikhaylov/github-readme-stats)
+> <img src="https://komarev.com/ghpvc/?username=kamikhaylov&color=brightgreen" alt="watching_count" /> 
 
 <!--
 **kamikhaylov/kamikhaylov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
