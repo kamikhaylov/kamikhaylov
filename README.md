@@ -20,6 +20,7 @@
 2. ["Список задач" с использованием Spring Boot, Hibernate](https://github.com/kamikhaylov/job4j_todo)
 3. ["Кинотеатр" с реализацией сквозной функциональности при помощи AOP Spring](https://github.com/kamikhaylov/job4j_cinema)
 4. ["Автонарушения" с использованием Spring Data, Spring Security](https://github.com/kamikhaylov/job4j_accidents)
+5. ["Сокращение URL-адресов" с использованием Rest Api, JWT, Spring Data](https://github.com/kamikhaylov/job4j_url_shortcut)
 
 #### Курсы
 * СберУнивер. Школа Java Developer: Программа Перезапуск, 2020
