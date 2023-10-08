@@ -16,11 +16,14 @@
 ![Travis](https://img.shields.io/badge/Travis-CI-success)
 
 #### Проекты
-1. ["Продажа автомобилей" с использованием Spring Boot, Hibernate](https://github.com/kamikhaylov/job4j_cars)
-2. ["Список задач" с использованием Spring Boot, Hibernate](https://github.com/kamikhaylov/job4j_todo)
-3. ["Кинотеатр" с реализацией сквозной функциональности при помощи AOP Spring](https://github.com/kamikhaylov/job4j_cinema)
-4. ["Автонарушения" с использованием Spring Data, Spring Security](https://github.com/kamikhaylov/job4j_accidents)
-5. ["Сокращение URL-адресов" с использованием Rest Api, JWT, Spring Data](https://github.com/kamikhaylov/job4j_url_shortcut)
+
+| #   | Проекты                                                                     | Технологии                   |
+|-----|-----------------------------------------------------------------------------|------------------------------|
+| 1.  | [Продажа автомобилей](https://github.com/kamikhaylov/job4j_cars)            | Spring Boot, Hibernate       |
+| 2.  | [Список задач](https://github.com/kamikhaylov/job4j_todo)                   | Spring Boot, Hibernate       |
+| 3.  | [Кинотеатр](https://github.com/kamikhaylov/job4j_cinema)                    | AOP Spring                   |
+| 4.  | [Автонарушения](https://github.com/kamikhaylov/job4j_accidents)             | Spring Data, Spring Security |
+| 5.  | [Сокращение URL-адресов](https://github.com/kamikhaylov/job4j_url_shortcut) | Rest Api, JWT, Spring Data   |
 
 #### Курсы
 * СберУнивер. Школа Java Developer: Программа Перезапуск, 2020
@@ -31,33 +34,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamikhaylov&layout=compact)](https://github.com/kamikhaylov/github-readme-stats)
 > <img src="https://komarev.com/ghpvc/?username=kamikhaylov&color=brightgreen" alt="watching_count" /> 
 
-<!--
-**kamikhaylov/kamikhaylov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--
-**kamikhaylov/kamikhaylov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
