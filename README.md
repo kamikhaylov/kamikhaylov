@@ -17,13 +17,13 @@
 
 #### Проекты
 
-| #   | Проекты                                                                     | Технологии                   |                                        Сборка                                         |                                Покрытие тестами                                 |
-|-----|-----------------------------------------------------------------------------|------------------------------|:-------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
-| 1.  | [Продажа автомобилей](https://github.com/kamikhaylov/job4j_cars)            | Spring Boot, Hibernate       |         [![github actions][actions-image-job4j-cars]][actions-url-job4j-cars]         |         [![coverage][codecov-image-job4j-cars]][codecov-url-job4j-cars]         |
-| 2.  | [Список задач](https://github.com/kamikhaylov/job4j_todo)                   | Spring Boot, Hibernate       |         [![github actions][actions-image-job4j-todo]][actions-url-job4j-todo]         |         [![coverage][codecov-image-job4j-todo]][codecov-url-job4j-todo]         |
-| 3.  | [Кинотеатр](https://github.com/kamikhaylov/job4j_cinema)                    | AOP Spring                   |       [![github actions][actions-image-job4j-cinema]][actions-url-job4j-cinema]       |       [![coverage][codecov-image-job4j-cinema]][codecov-url-job4j-cinema]       |
-| 4.  | [Автонарушения](https://github.com/kamikhaylov/job4j_accidents)             | Spring Data, Spring Security |     [![github actions][actions-image-job4j-accidents]][actions-url-job4j-cinema]      |     [![coverage][codecov-image-job4j-cinema]][codecov-url-job4j-accidents]      |
-| 5.  | [Сокращение URL-адресов](https://github.com/kamikhaylov/job4j_url_shortcut) | Rest Api, JWT, Spring Data   | [![github actions][actions-image-job4j-url-shortcut]][actions-url-job4j-url-shortcut] | [![coverage][codecov-image-job4j-url-shortcut]][codecov-url-job4j-url-shortcut] |
+| #   | Проекты                                                                     | Технологии                   |                                         Сборка                                          |                                 Покрытие тестами                                  |
+|-----|-----------------------------------------------------------------------------|------------------------------|:---------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------:|
+| 1.  | [Продажа автомобилей](https://github.com/kamikhaylov/job4j_cars)            | Spring Boot, Hibernate       |          [![github actions][actions-image-job4j-cars]][actions-url-job4j-cars]          |          [![coverage][codecov-image-job4j-cars]][codecov-url-job4j-cars]          |
+| 2.  | [Список задач](https://github.com/kamikhaylov/job4j_todo)                   | Spring Boot, Hibernate       |          [![github actions][actions-image-job4j-todo]][actions-url-job4j-todo]          |          [![coverage][codecov-image-job4j-todo]][codecov-url-job4j-todo]          |
+| 3.  | [Кинотеатр](https://github.com/kamikhaylov/job4j_cinema)                    | AOP Spring                   |        [![github actions][actions-image-job4j-cinema]][actions-url-job4j-cinema]        |        [![coverage][codecov-image-job4j-cinema]][codecov-url-job4j-cinema]        |
+| 4.  | [Автонарушения](https://github.com/kamikhaylov/job4j_accidents)             | Spring Data, Spring Security |     [![github actions][actions-image-job4j-accidents]][actions-url-job4j-accidents]     |     [![coverage][codecov-image-job4j-accidents]][codecov-url-job4j-accidents]     |
+| 5.  | [Сокращение URL-адресов](https://github.com/kamikhaylov/job4j_url_shortcut) | Rest Api, JWT, Spring Data   |  [![github actions][actions-image-job4j-url-shortcut]][actions-url-job4j-url-shortcut]  |  [![coverage][codecov-image-job4j-url-shortcut]][codecov-url-job4j-url-shortcut]  |
 
 #### Курсы
 * СберУнивер. Школа Java Developer: Программа Перезапуск, 2020
