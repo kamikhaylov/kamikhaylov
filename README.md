@@ -29,6 +29,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kamikhaylov&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamikhaylov&layout=compact)](https://github.com/kamikhaylov/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=kamikhaylov)<br/>
+
 [//]: # (job4j_cars)
 [actions-image-job4j-cars]: https://github.com/kamikhaylov/job4j_cars/actions/workflows/maven.yml/badge.svg
 [actions-url-job4j-cars]: https://github.com/kamikhaylov/job4j_cars/actions/workflows/maven.yml
