@@ -8,12 +8,8 @@
 * kanmikhaylov@gmail.com
 
 <b>Технологии:</b>
-> ![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
-![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
-![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
-![Maven](https://img.shields.io/badge/Maven-3-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
-![Travis](https://img.shields.io/badge/Travis-CI-success)
+
+<img width="1139" alt="tech03" src="https://github.com/kamikhaylov/kamikhaylov/assets/43637775/5de00388-c6a4-4f10-8d99-75951e692a20">
 
 #### Проекты
 
@@ -32,7 +28,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kamikhaylov&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamikhaylov&layout=compact)](https://github.com/kamikhaylov/github-readme-stats)
-> <img src="https://komarev.com/ghpvc/?username=kamikhaylov&color=brightgreen" alt="watching_count" /> 
 
 [//]: # (job4j_cars)
 [actions-image-job4j-cars]: https://github.com/kamikhaylov/job4j_cars/actions/workflows/maven.yml/badge.svg
